@@ -1,3 +1,4 @@
+follow: https://www.youtube.com/watch?v=HEV1PWycOuQ
 python -m venv venv
 venv\Scripts\activate
 pip install django
